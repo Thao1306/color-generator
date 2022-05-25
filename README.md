@@ -6,4 +6,4 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 https://thao1306.github.io/color-generator/
 
-(Please type hexadecimal RGB value: #RGB #RRGGBB)
+(Please type hexadecimal RGB value: #RGB #RRGGBB in input)
